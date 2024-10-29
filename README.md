@@ -1,1 +1,1 @@
-# LLM_MBTI
+# LLMBTI
